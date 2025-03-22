@@ -1,0 +1,1 @@
+Используйте docker-compose up --build для сборки контейнера в докер. Запуск на http://localhost:3000
